@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+.ipynb_checkpoints/
+
+# Data & artifacts
+raw/
+interim/
+processed/
+outputs/
+runs/
+*.tif
+*.npy
+*.ckpt
+*.pt
+
+# IDE
+.vscode/
+.idea/
