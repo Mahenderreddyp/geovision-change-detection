@@ -10,12 +10,10 @@ raw/
 interim/
 processed/
 outputs/
-runs/
 *.tif
 *.npy
-*.ckpt
-*.pt
 
 # IDE
 .vscode/
 .idea/
+.DS_Store *
