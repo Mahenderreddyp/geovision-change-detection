@@ -9,7 +9,6 @@ __pycache__/
 raw/
 interim/
 processed/
-outputs/
 *.tif
 *.npy
 
