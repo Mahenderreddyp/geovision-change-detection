@@ -13,7 +13,7 @@ GeoVision provides an end-to-end solution for detecting changes in satellite ima
 **Key Features:**
 - Automated Sentinel-2 data acquisition via STAC API with cloud filtering
 - Robust preprocessing pipeline with geospatial alignment and NDVI-based weak labeling
-- Trained Siamese U-Net model for accurate change detection (IoU: 0.556)
+- Trained Siamese U-Net model for accurate change detection (IoU: 0.856)
 - GPU-optimized inference for full-scene processing
 - Multi-region support with automated visualization generation
 - Cloud-ready integration with Vertex AI and Google Cloud Storage
